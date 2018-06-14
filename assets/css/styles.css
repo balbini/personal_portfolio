@@ -1,0 +1,20 @@
+.welcome {
+  text-align: center;
+}
+.headshot {
+  max-width: 150px;
+  max-height: 150px;
+  border-radius: 80%;
+}
+.nav {
+  text-align: center;
+}
+span {
+  padding: 1%;
+}
+.container {
+
+}
+div {
+  border-color: black;
+}
